@@ -1,30 +1,28 @@
-# New Project
+# Btech Walleh Campus Ambassador Platform 🚀
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+A responsive web platform created as part of a Software Development Internship task. It allows users to register as campus ambassadors and access their personalized dashboard.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/suparnas-projects-6fa7b38b/v0-new-project-ntslxnxvyjk)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/ntslxNxVyjK)
+## 🔑 Features
 
-## Overview
+- 🎯 **Landing Page** with an overview of the Campus Ambassador Program
+- 📝 **Registration Form** with real-time validation and data stored in localStorage
+- 🔐 Auto-redirect to a **Dashboard** after form submission
+- 👤 Dashboard Components:
+  - Profile Info: Name, LinkedIn, Referral Code
+  - Cards: Registration Progress, Announcements, Events, Performance
+  - Upcoming Events Section with CTA Buttons
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## 🧰 Tech Stack
 
-## Deployment
+- React
+- Tailwind CSS
+- Framer Motion
+- LocalStorage (for form data persistence)
 
-Your project is live at:
+## 📍 Live Demo
 
-**[https://vercel.com/suparnas-projects-6fa7b38b/v0-new-project-ntslxnxvyjk](https://vercel.com/suparnas-projects-6fa7b38b/v0-new-project-ntslxnxvyjk)**
+🔗 **Live:** https://btech-walleh-campus-ambassador.vercel.app
 
-## Build your app
+## 📁 Folder Structure
 
-Continue building your app on:
 
-**[https://v0.dev/chat/projects/ntslxNxVyjK](https://v0.dev/chat/projects/ntslxNxVyjK)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
